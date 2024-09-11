@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Omega
+- 👀 I’m interested in web development and also some C#!
